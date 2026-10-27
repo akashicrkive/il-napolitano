@@ -1,0 +1,58 @@
+[
+  {
+    "nombre": "Pizza de Mozarella",
+    "precio": 11730,
+    "fecha": "22/9/2026",
+    "imagen": "img/mozarella.webp",
+    "descripcion": "Pizza de Mozarella con salsa de tomate y albahaca"
+  },
+  {
+    "nombre": "Pizza de cuatro quesos",
+    "precio": 24480,
+    "fecha": "22/9/2026",
+    "imagen": "img/cuatro-quesos.webp",
+    "descripcion": "Pizza de cuatro quesos con salsa de tomate y albahaca"
+  },
+  {
+    "nombre": "Pizza de morrón",
+    "precio": 14790,
+    "fecha": "22/9/2026",
+    "imagen": "img/morron.webp",
+    "descripcion": "Pizza de Morrón con salsa de tomate y albahaca"
+  },
+  {
+    "nombre": "Pizza de albahaca",
+    "precio": 15810,
+    "fecha": "22/9/2026",
+    "imagen": "img/albahaca.webp",
+    "descripcion": "Pizza de Albahaca con salsa de tomate y albahaca"
+  },
+  {
+    "nombre": "Pizza de champiñones",
+    "precio": 15300,
+    "fecha": "22/9/2026",
+    "imagen": "img/champinones.webp",
+    "descripcion": "Pizza de Champiñones con salsa de tomate y albahaca"
+  },
+  {
+    "nombre": "Pizza diavola",
+    "precio": 12800,
+    "fecha": "22/9/2026",
+    "imagen": "img/diavola.webp",
+    "descripcion": "Pizza diavola con salsa de tomate y albahaca"
+  },
+  {
+    "nombre": "Pizza napolitana",
+    "precio": 18360,
+    "fecha": "22/9/2026",
+    "imagen": "img/napolitana.webp",
+    "descripcion": "Pizza napolitana con salsa de tomate y albahaca"
+  },
+  {
+    "nombre": "Pizza San Martin",
+    "precio": 20500,
+    "fecha": "22/10/2026",
+    "imagen": "",
+    "descripcion": "Pizza Muzzarella con aceitunas negras y morrones asados"
+  }
+]
